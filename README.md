@@ -6,6 +6,10 @@
 
 A simple and interactive drumkit application that allows users to play different drum sounds using their keyboard. This project is built using HTML, CSS, and JavaScript.
 
+![image](https://github.com/user-attachments/assets/1f4704cb-eeb4-40f2-a994-71fcf1cbc14a)
+
+---
+
 ## 🎯 Features
 
 - Responsive drumkit layout with clickable drum pads.
@@ -13,9 +17,6 @@ A simple and interactive drumkit application that allows users to play different
 - Each drum pad is associated with a unique sound.
 - Visual feedback when a drum pad is clicked or a key is pressed.
 
-![image](https://github.com/user-attachments/assets/1f4704cb-eeb4-40f2-a994-71fcf1cbc14a)
-
----
 
 ## 🎹 How to Play
 
