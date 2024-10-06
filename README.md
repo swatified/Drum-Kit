@@ -17,6 +17,27 @@ A simple and interactive drumkit application that allows users to play different
 - Each drum pad is associated with a unique sound.
 - Visual feedback when a drum pad is clicked or a key is pressed.
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have a modern web browser (e.g., Google Chrome, Mozilla Firefox) installed to run the project.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/drumkit.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd drumkit
+   ```
+3. Open the `index.html` file in your browser:
+   ```bash
+   open index.html
+   ```
+   or simply drag and drop the `index.html` file into your browser window.
 
 ## 🎹 How to Play
 
