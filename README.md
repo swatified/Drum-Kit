@@ -19,10 +19,6 @@ A simple and interactive drumkit application that allows users to play different
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-Make sure you have a modern web browser (e.g., Google Chrome, Mozilla Firefox) installed to run the project.
-
 ### Installation
 
 1. Clone the repository:
@@ -38,6 +34,8 @@ Make sure you have a modern web browser (e.g., Google Chrome, Mozilla Firefox) i
    open index.html
    ```
    or simply drag and drop the `index.html` file into your browser window.
+
+&nbsp;
 
 ## 🎹 How to Play
 
