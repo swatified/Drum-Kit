@@ -1,0 +1,28 @@
+# 🥁 Drumkit Project
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+A simple and interactive drumkit application that allows users to play different drum sounds using their keyboard. This project is built using HTML, CSS, and JavaScript.
+
+## 🎯 Features
+
+- Responsive drumkit layout with clickable drum pads.
+- Keyboard support to play the drums using specific keys.
+- Each drum pad is associated with a unique sound.
+- Visual feedback when a drum pad is clicked or a key is pressed.
+
+![image](https://github.com/user-attachments/assets/1f4704cb-eeb4-40f2-a994-71fcf1cbc14a)
+
+---
+
+## 🎹 How to Play
+
+- **Click** on any drum pad using your mouse to play its corresponding sound.
+- Alternatively, use the **keyboard keys** shown on each key to play each drum.
+
+## Connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dev-swati/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/swatified/)
