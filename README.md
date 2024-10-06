@@ -42,6 +42,8 @@ A simple and interactive drumkit application that allows users to play different
 - **Click** on any drum pad using your mouse to play its corresponding sound.
 - Alternatively, use the **keyboard keys** shown on each key to play each drum.
 
+&nbsp;
+
 ## Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dev-swati/)
